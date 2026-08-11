@@ -1,4 +1,5 @@
-Critical Thinking
+                                        Critical Thinking
+
 How does TypeScript enforce type safety in this object-oriented program?
 
 I am still getting used to TypeScript, but I understand that it uses types like string and number to make sure the correct kind of data is being used. For example, the product name should be a string and the price should be a number. If I use the wrong type, TypeScript can show an error. I think this helps catch mistakes before the program runs.
